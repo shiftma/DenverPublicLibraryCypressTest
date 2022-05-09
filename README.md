@@ -9,7 +9,9 @@ Cypress installation guides can be found here:
 * [Cypress](https://docs.cypress.io/guides/getting-started/installing-cypress)
 * [TypeScript](https://docs.cypress.io/guides/tooling/typescript-support#Install-TypeScript)
 
-Tests are located under the following dir: Cypress> Integration > src 
+**Manual tests** are located in project wiki.
+
+**Automation Tests** are located under the following dir: Cypress> Integration > src 
 
 ### To open Cypress runner
 Navigate to a project dir in terminal and run the following command: 'npm run cypress:open'
