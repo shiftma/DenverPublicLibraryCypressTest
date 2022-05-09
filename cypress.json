@@ -1,0 +1,6 @@
+{
+    "theme": "dark",
+    "baseUrl": "https://openlibrary.org/api/volumes/brief/",
+    "defaultCommandTimeout": 5000
+}
+

@@ -1,2 +1,17 @@
 # DenverPublicLibraryCypressTest
- Cypress playground
+
+*Functional test of Denver public library
+
+Test are using Cypress test framework and TypeScript
+
+Make sure to have Node js and WebPack installed globally
+
+In order to run tests make sure that Cypress and TypeScript are installed on the machine.
+Cypress installation guides can be found here:
+https://docs.cypress.io/guides/getting-started/installing-cypress
+https://docs.cypress.io/guides/tooling/typescript-support#Install-TypeScript
+
+## To open Cypress runner
+Navigate to a project dir in terminal and run the following command: 'npm run cypress:open'
+
+
